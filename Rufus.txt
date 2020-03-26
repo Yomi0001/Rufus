@@ -1,5 +1,5 @@
-My name is famoyin yomi segun
-Akinsholarufox@gmail.com
-Slack username is slack
-Tracks are, HTML, CSS, JavaScript 
-Courses, frontend and backend
+Name--- famoyin yomi segun
+Email--Akinsholarufox@gmail.com
+Slack username---rufus
+Tracks--- are, HTML, CSS, JavaScript 
+Courses-- frontend and backend
